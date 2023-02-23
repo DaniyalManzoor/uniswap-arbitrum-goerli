@@ -240,6 +240,7 @@ export const RarityVerifiedIcon = () => (
   </svg>
 )
 
+// eslint-disable-next-line import/no-unused-modules
 export const BrokenLinkIcon = (props: SVGProps) => (
   <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
     <g clipPath="url(#clip0_79_4612)">
